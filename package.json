@@ -5,7 +5,7 @@
   "main": "create_database.js",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "mongoose": "^5.7.7"
+    "mongoose": "^5.13.15"
   },
   "devDependencies": {},
   "scripts": {
